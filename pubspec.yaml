@@ -1,0 +1,63 @@
+name: minichat
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.1
+  faker: ^2.1.0
+  firebase_auth: ^5.0.0
+  firebase_storage: ^12.0.0
+  flutter_chat_types: ^3.6.2
+  flutter_chat_ui: ^1.6.14
+  flutter_firebase_chat_core: ^1.6.8
+  firebase_messaging: ^15.2.0
+  cloud_firestore: ^5.0.1
+  firebase_core: ^3.10.0
+  google_sign_in: ^6.3.0
+  google_fonts: ^6.2.1
+  file_picker: ^8.0.0+1
+  image_picker: ^1.0.7
+  open_filex: ^4.4.0
+  path_provider: ^2.0.11
+  mime: ^1.0.5
+  flutter_screenutil: ^5.9.3
+  timeago: ^3.7.1
+  shared_preferences: ^2.3.5
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/images/minichats.jpg"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/icons/
+    - assets/images/
+

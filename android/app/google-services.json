@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461151611139",
+    "firebase_url": "https://instaproject-87e3f-default-rtdb.firebaseio.com",
+    "project_id": "instaproject-87e3f",
+    "storage_bucket": "instaproject-87e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461151611139:android:09fd264e48e128c4f9a136",
+        "android_client_info": {
+          "package_name": "com.app.minichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461151611139-2gf14s2h76un3db2j0k9phtbl4dk5ef3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.minichat",
+            "certificate_hash": "e0a79fccb8267345ba316ccc094d81c6fb3f757b"
+          }
+        },
+        {
+          "client_id": "461151611139-fedvr3jdu88bv41friafos46mq35ev2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8YbBzoarWToJ8D2H2uPKCJcRYcRvCL6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461151611139-fedvr3jdu88bv41friafos46mq35ev2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
